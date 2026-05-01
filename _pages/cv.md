@@ -47,11 +47,11 @@ redirect_from:
 *DHEI Institute | 2025 – Current*  
 • PROJECT: Global goals, local plans: Swiss–Iranian collaboration towards age-friendly cities (Organized by DHEI and Zurich University of Applied Science)
 
-**Research and Teaching Assistant**  
-*University of Tehran | 2022 – 2025*  
-• COURSE: Urban Research Methodology; Basics of Urban Management; Natural Disasters and Human Habitats; English for Urban Planners.
+**Teaching Assistant**  
+*University of Tehran | 2023 – 2025*  
+• COURSE: Introduction to Urban Management (for Bachelor's Students); and English for Urban Planners (for Bachelor's Students).
 
-**Urban Planner and Team Manager**  
+**Urban Planning Specialist**  
 *FarNahad Consulting Co. | 2023 – 2025*  
 • PROJECT: Developing the Isfahan metropolitan area’s strategic master plan (Supported by Ministery of Road and Urban Development)  
 
@@ -61,7 +61,7 @@ redirect_from:
 • PROJECT: Cross-cultural landscape assessment of world cultural heritage sites (Organized by DHEI, T.U Dortmund, and DAAD Foundation)
 
 **Research Assistant**  
-*Art University of Isfahan | 2020 – 2022*  
+*Art University of Isfahan | 2019 – 2020*  
 • PROJECT: Developing strategic/ action plan for promoting age-friendly communities in Isfahan, based on the rapid assessment in 2019  
 • PROJECT: Assessment and pilot planning for the age-friendly environment (AFE) in Isfahan City (Organized and Supported by the UNFPA and WHO) 
 
@@ -104,6 +104,6 @@ redirect_from:
 ## 🌍 Service and Leadership
 
 **Climate Reality Project**  
-Mentor and Trainer | *Oct 2021 – Present*  
+Mentor and Trainer | *2021 – 2025*  
 • the Climate Reality Project, participating in the climate-related global awareness
 
